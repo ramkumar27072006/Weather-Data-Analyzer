@@ -34,6 +34,15 @@ This project analyzes multi-year Delhi weather data to uncover climate patterns,
 - **Correlation Heatmap:** Visual matrix of all key numeric features
 - **Forecast Plot:** Linear regression line predicting average temperature for 5 more years (orange line over actual points)
 
+<img width="1000" height="600" alt="TEMP PRED FOR NEXT YEARS" src="https://github.com/user-attachments/assets/c47aaca5-39ea-4258-9a55-867b20d9ab2c" />
+<img width="700" height="600" alt="HUMIDITY vs TEMP CORRELATION" src="https://github.com/user-attachments/assets/82142068-dde5-432a-b627-06c7c80e46ec" />
+<img width="1000" height="600" alt="YEARLY WIND SPEED DISTRIBUTION" src="https://github.com/user-attachments/assets/7f2644a0-40e5-4610-9bd3-2149fe3b66a7" />
+<img width="1000" height="600" alt="MONTHLY TEMP TRENDS, BY YEAR" src="https://github.com/user-attachments/assets/ab017a25-f465-4e3c-9c52-c10f2517653d" />
+<img width="1000" height="600" alt="TEMPERATURE TREND over years" src="https://github.com/user-attachments/assets/159a3bac-55b5-4f45-b7d2-79e81f309e5f" />
+<img width="600" height="400" alt="CORRELATION HEATMAP" src="https://github.com/user-attachments/assets/b2e6cba3-aa2d-40c6-a6a1-dafe8d212b71" />
+
+
+
 **Predictive Modeling:**
 - Train linear regression on historical yearly averages
 - Display model performance (MSE, RMSE) in console
